@@ -14,13 +14,11 @@ h1 {
 }
 
 table {
-  border-collapse: collapse;
   border-style: double;
   border-spacing: 10px;
   background-color: rgb(135,206,250);
   text-align: right;
   vertical-align: center;
-  border: 2px black;
   padding: 10px;
   margin-left: auto;
   margin-right: auto;
