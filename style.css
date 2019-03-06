@@ -1,7 +1,8 @@
 body {
-  background-color: rgb(75,0,130);
-  max-width: 200%;
-  max-height: 200%;
+  background-image: url(pics/stars.jpg);
+  background-position: center;
+  height: 100%;
+  background-size: cover;
   font-family: 'Loto', sans-serif;
   text-align: center;
   margin: auto;
